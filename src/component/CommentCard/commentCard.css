@@ -1,0 +1,28 @@
+/* .commentIcon {
+  position: absolute;
+  top: 214rem;
+  left: 34rem;
+} */
+.commentCard {
+  padding: 2rem;
+  border-radius: 1rem !important;
+  margin: 0 2rem;
+}
+.commentCard.css-1wg82c1-MuiPaper-root-MuiCard-root {
+  overflow-y: scroll;
+}
+.commentCard.css-1wg82c1-MuiPaper-root-MuiCard-root::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+.commentName {
+  padding-left: 2rem;
+}
+.commentDetails {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-around; */
+}
+.commentAvatar {
+  padding: 0.5rem;
+  margin: 1rem;
+}

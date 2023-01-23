@@ -1,0 +1,20 @@
+.footer {
+  background: #ecf4ff;
+  margin-top: 15rem;
+  display: flex;
+  padding: 3rem 4rem 4rem 2rem;
+  flex-direction: column;
+}
+
+.icons {
+  margin-bottom: 1rem;
+}
+
+.footerTitle {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 34px;
+  color: #667c94;
+}

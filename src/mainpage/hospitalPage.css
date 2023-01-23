@@ -1,0 +1,157 @@
+.page {
+  background: #f8fdff;
+  height: 100%;
+  width: 100%;
+}
+.css-sghohy-MuiButtonBase-root-MuiButton-root {
+  border-radius: 20px !important;
+}
+.container {
+  /* position: absolute; */
+}
+
+.Ovals {
+  display: flex;
+  justify-content: space-between;
+}
+.Oval {
+  height: 20rem;
+  right: 0;
+}
+.pageOneFirst {
+  display: flex;
+  padding: 0 2.5rem;
+  justify-content: space-between;
+}
+.pageOneHeading {
+  display: flex;
+  flex-direction: column;
+  padding: 5rem;
+}
+.pageOneButtons {
+  display: flex;
+  justify-content: space-between;
+}
+.Rectangle {
+  height: 42rem;
+  width: 35.875rem;
+}
+.ourServices {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+}
+.cards {
+  display: flex;
+  justify-content: center;
+  padding: 2.5rem;
+}
+.css-1gwrruu-MuiPaper-root-MuiCard-root {
+  margin: 0 1rem;
+  padding: 2rem 2rem 2rem 1rem;
+  border-radius: 1.5rem !important;
+}
+.cards .css-1gwrruu-MuiPaper-root-MuiCard-root:hover {
+  background-color: #007ef3;
+  color: white;
+  /* position: absolute; */
+  padding: 3rem 3rem 3rem 1.5rem;
+  /* background: url('../image/twitterIcon.svg'); */
+}
+.pageTwo {
+  display: flex;
+  background: #ffffff;
+  padding: 10rem 0 0 5rem;
+}
+.pageTwoHeading {
+  display: flex;
+  flex-direction: column;
+  padding: 0 1.5rem 0 2.5rem;
+  margin: 10rem 0 0 0;
+}
+.pageTwoIcons {
+  display: grid;
+  grid-template-rows: 10rem 10rem;
+}
+.item-a {
+  grid-column: 1;
+  grid-row: 1;
+}
+.item-b {
+  grid-column: 2;
+  grid-row: 2;
+}
+.item-c {
+  grid-column: 1;
+  grid-row: 3;
+}
+.DoctorWomen {
+  position: relative;
+  bottom: 27rem;
+  left: 5rem;
+}
+.DoctorIconText {
+  position: relative;
+  bottom: 27rem;
+  left: 8rem;
+}
+.pageThree {
+  width: "-webkit-fill-available";
+}
+.OvalCopy2 {
+  display: flex;
+  justify-content: space-between;
+  /* position: relative; */
+}
+.pageThreeHeading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2.5rem 0 2.5rem 0;
+}
+.cardsTwo {
+  display: flex;
+  justify-content: center;
+  padding: 2.5rem;
+}
+.cardsTwoHeading {
+  display: flex;
+  justify-content: center;
+}
+.commentSection {
+  padding: 0 7.5rem;
+  overflow: hidden;
+}
+.commentCards {
+  display: flex;
+  justify-content: space-between;
+  overflow-x: scroll;
+  /* white-space: nowrap; */
+  scroll-behavior: smooth;
+  /* overflow: hidden; */
+}
+.commentCards::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+.emailSection {
+  background-color: #007ef3;
+  color: #ffffff;
+  padding: 2.5rem;
+  margin: 7.5rem;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.commentsWindow {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.commentPageButtons {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2rem;
+}

@@ -1,0 +1,7 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  width: -webkit-fill-available;
+  position: absolute;
+  padding: 2.5rem 7.5rem;
+}
